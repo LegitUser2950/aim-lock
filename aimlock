@@ -1,0 +1,3 @@
+while true do
+getgenv().AimlockKey = "c"
+end
